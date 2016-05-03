@@ -28,14 +28,14 @@
     "babelify": "^6.0.0",
     "browserify": "^10.0.0",
     "bundle-collapser": "^1.2.0",
-    "react": "^0.14.0",
-    "react-dom": "^0.14.0",
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1",
     "semver": "^4.2.0",
     "uglify-js": "^2.4.23"
   },
   "peerDependencies": {
-    "react": "0.14.x",
-    "react-dom": "0.14.x"
+    "react": "15.x.x",
+    "react-dom": "15.x.x"
   },
   "author": "James Hollingworth",
   "license": "MIT",
